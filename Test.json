@@ -15,7 +15,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "Касание"
+					"type": "touch"
 				}
 			},
 			"components": {
@@ -31,8 +31,8 @@
 				}
 			],
 			"entries": [
-				"Проверка 1 Описание заклинания и тд",
-				"You cast this spell on an object no more than 1 foot on a side, doubling the object's perceived value by adding illusory flourishes or polish to it, or reducing its perceived value by half with the help of illusory scratches, dents, and other unsightly features. Anyone examining the object can ascertain its true value with a successful Intelligence ({@skill Investigation}) check against your spell save DC."
+				"Описание 1",
+				"Описание 2 что ку ка что такое что"
 			],
 			"entriesHigherLevel": [
 				{

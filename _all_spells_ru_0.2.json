@@ -16,7 +16,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -106,7 +106,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -272,7 +272,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -541,7 +541,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -646,7 +646,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -733,7 +733,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -787,7 +787,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 10
 				}
 			},
@@ -903,7 +903,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -1088,7 +1088,7 @@
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 10
 				}
 			},
@@ -1209,7 +1209,7 @@
 			"range": {
 				"type": "sphere",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 10
 				}
 			},
@@ -1314,7 +1314,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -1408,7 +1408,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -1576,7 +1576,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 500
 				}
 			},
@@ -1844,7 +1844,7 @@
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 10
 				}
 			},
@@ -1925,7 +1925,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 10
 				}
 			},
@@ -2115,7 +2115,7 @@
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -2272,7 +2272,7 @@
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -2420,7 +2420,7 @@
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -2633,7 +2633,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -2871,7 +2871,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -3189,7 +3189,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -3538,7 +3538,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -3683,7 +3683,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -3799,7 +3799,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -3904,7 +3904,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -4187,7 +4187,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -4705,7 +4705,7 @@
 			"range": {
 				"type": "cone",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 15
 				}
 			},
@@ -4917,7 +4917,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -5035,7 +5035,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -5159,7 +5159,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 150
 				}
 			},
@@ -5228,7 +5228,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -5424,7 +5424,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -5519,7 +5519,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -5606,7 +5606,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 150
 				}
 			},
@@ -5676,7 +5676,7 @@
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -5942,7 +5942,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -6016,7 +6016,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -6206,7 +6206,7 @@
 			"range": {
 				"type": "cone",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 15
 				}
 			},
@@ -6284,7 +6284,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -6767,7 +6767,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -6959,7 +6959,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -7079,7 +7079,7 @@
 			"range": {
 				"type": "cone",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -7292,7 +7292,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -7513,7 +7513,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -7623,7 +7623,7 @@
 			"range": {
 				"type": "cone",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -7697,7 +7697,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -7758,7 +7758,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -7877,7 +7877,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -7943,7 +7943,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -8047,7 +8047,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 150
 				}
 			},
@@ -8107,7 +8107,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -8539,7 +8539,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 300
 				}
 			},
@@ -8897,7 +8897,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 5
 				}
 			},
@@ -8963,7 +8963,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -9086,7 +9086,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -9206,7 +9206,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -9317,7 +9317,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 10
 				}
 			},
@@ -9385,7 +9385,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -9549,7 +9549,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -9652,7 +9652,7 @@
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -9874,7 +9874,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -9964,7 +9964,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -10244,7 +10244,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -10563,7 +10563,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 150
 				}
 			},
@@ -10635,7 +10635,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -10699,7 +10699,7 @@
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -11220,7 +11220,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 500
 				}
 			},
@@ -11534,7 +11534,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -11678,7 +11678,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -11854,7 +11854,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -12166,7 +12166,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -12230,7 +12230,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -12402,7 +12402,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -12484,7 +12484,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -12850,7 +12850,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -12934,7 +12934,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 500
 				}
 			},
@@ -13026,7 +13026,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -13449,7 +13449,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -13688,7 +13688,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -13799,7 +13799,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -13989,7 +13989,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -14301,7 +14301,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -14390,7 +14390,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -14727,7 +14727,7 @@
 			"range": {
 				"type": "cone",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -14855,7 +14855,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -14939,7 +14939,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 150
 				}
 			},
@@ -15121,7 +15121,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 10
 				}
 			},
@@ -15182,7 +15182,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -15289,7 +15289,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -15359,7 +15359,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -15423,7 +15423,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -15724,7 +15724,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 150
 				}
 			},
@@ -15783,7 +15783,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 150
 				}
 			},
@@ -16045,7 +16045,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -16263,7 +16263,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -16425,7 +16425,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -16605,7 +16605,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -16823,7 +16823,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 100
 				}
 			},
@@ -17496,7 +17496,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -17572,7 +17572,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -17783,7 +17783,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -17933,7 +17933,7 @@
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 10
 				}
 			},
@@ -18211,7 +18211,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -18290,7 +18290,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -18764,7 +18764,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -19117,7 +19117,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -19238,7 +19238,7 @@
 			"range": {
 				"type": "line",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -19663,7 +19663,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 300
 				}
 			},
@@ -19759,7 +19759,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -19812,7 +19812,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -19992,7 +19992,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -20053,7 +20053,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -20137,7 +20137,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -20267,7 +20267,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -20370,7 +20370,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -20607,7 +20607,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -20688,7 +20688,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -20866,7 +20866,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -21141,7 +21141,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 150
 				}
 			},
@@ -21224,7 +21224,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -21313,7 +21313,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -21444,7 +21444,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 300
 				}
 			},
@@ -21776,7 +21776,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -21890,7 +21890,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 150
 				}
 			},
@@ -22043,7 +22043,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 300
 				}
 			},
@@ -22596,7 +22596,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -22876,7 +22876,7 @@
 			"range": {
 				"type": "hemisphere",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 10
 				}
 			},
@@ -23099,7 +23099,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -23411,7 +23411,7 @@
 			"range": {
 				"type": "line",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 100
 				}
 			},
@@ -24060,7 +24060,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -24245,7 +24245,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 10
 				}
 			},
@@ -24461,7 +24461,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -24571,7 +24571,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -24825,7 +24825,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -24909,7 +24909,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -25026,7 +25026,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -25074,7 +25074,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -25182,7 +25182,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -25260,7 +25260,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -25453,7 +25453,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -25630,7 +25630,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -25841,7 +25841,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -26503,7 +26503,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -26635,7 +26635,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -26745,7 +26745,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -26819,7 +26819,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 300
 				}
 			},
@@ -26874,7 +26874,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -26968,7 +26968,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -27036,7 +27036,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -27292,7 +27292,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 300
 				}
 			},
@@ -27364,7 +27364,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -27505,7 +27505,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -27686,7 +27686,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -27798,7 +27798,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -27941,7 +27941,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -28085,7 +28085,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -28167,7 +28167,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -28216,7 +28216,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -28437,7 +28437,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 150
 				}
 			},
@@ -28572,7 +28572,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 10
 				}
 			},
@@ -28662,7 +28662,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -28830,7 +28830,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -28888,7 +28888,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -28953,7 +28953,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -29029,7 +29029,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 10
 				}
 			},
@@ -29133,7 +29133,7 @@
 			"range": {
 				"type": "cone",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -29270,7 +29270,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -29490,7 +29490,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -30173,7 +30173,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 10
 				}
 			},
@@ -30373,7 +30373,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -30480,7 +30480,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -30612,7 +30612,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -30713,7 +30713,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -31306,7 +31306,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 100
 				}
 			},
@@ -31628,7 +31628,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -31720,7 +31720,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -31880,7 +31880,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -32496,7 +32496,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -32899,7 +32899,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -33214,7 +33214,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -33466,7 +33466,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -33620,7 +33620,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -33748,7 +33748,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -33895,7 +33895,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 150
 				}
 			},
@@ -34066,7 +34066,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -34401,7 +34401,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 10
 				}
 			},
@@ -34538,7 +34538,7 @@
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -34740,7 +34740,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 150
 				}
 			},
@@ -34888,7 +34888,7 @@
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 15
 				}
 			},
@@ -34993,7 +34993,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -35211,7 +35211,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -35748,7 +35748,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -35858,7 +35858,7 @@
 			"range": {
 				"type": "line",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -35934,7 +35934,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 150
 				}
 			},
@@ -36201,7 +36201,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -36286,7 +36286,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -36446,7 +36446,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 10
 				}
 			},
@@ -36605,7 +36605,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 10
 				}
 			},
@@ -36740,7 +36740,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -36814,7 +36814,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -36944,7 +36944,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -37094,7 +37094,7 @@
 			"range": {
 				"type": "cube",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 15
 				}
 			},
@@ -37450,7 +37450,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 10
 				}
 			},
@@ -37580,7 +37580,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -37794,7 +37794,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -37921,7 +37921,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -38118,7 +38118,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -38195,7 +38195,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -38372,7 +38372,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -38518,7 +38518,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -38586,7 +38586,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -38740,7 +38740,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -38966,7 +38966,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -39084,7 +39084,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -39198,7 +39198,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -39364,7 +39364,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -39434,7 +39434,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -39490,7 +39490,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -39729,7 +39729,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -39802,7 +39802,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 5
 				}
 			},
@@ -39940,7 +39940,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -40091,7 +40091,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 150
 				}
 			},
@@ -40244,7 +40244,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -40377,7 +40377,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -40453,7 +40453,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -40522,7 +40522,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -40600,7 +40600,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -40792,7 +40792,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -40951,7 +40951,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -41038,7 +41038,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -41114,7 +41114,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 300
 				}
 			},
@@ -41206,7 +41206,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -41421,7 +41421,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -41486,7 +41486,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -41734,7 +41734,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -41815,7 +41815,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 10
 				}
 			},
@@ -41894,7 +41894,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 300
 				}
 			},
@@ -41965,7 +41965,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -42051,7 +42051,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -42118,7 +42118,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -42200,7 +42200,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -42325,7 +42325,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -42462,7 +42462,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -42651,7 +42651,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -42725,7 +42725,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -42862,7 +42862,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -42932,7 +42932,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -43009,7 +43009,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -43077,7 +43077,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -43148,7 +43148,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -43613,7 +43613,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -43688,7 +43688,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 150
 				}
 			},
@@ -43753,7 +43753,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -43883,7 +43883,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -43964,7 +43964,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -44108,7 +44108,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -44249,7 +44249,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -44335,7 +44335,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -44404,7 +44404,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -44463,7 +44463,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -44660,7 +44660,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -44734,7 +44734,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -44817,7 +44817,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -45014,7 +45014,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -45092,7 +45092,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -45385,7 +45385,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -45449,7 +45449,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -45533,7 +45533,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -45597,7 +45597,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 150
 				}
 			},
@@ -45672,7 +45672,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -45744,7 +45744,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -45856,7 +45856,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -45919,7 +45919,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -46058,7 +46058,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -46141,7 +46141,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 5
 				}
 			},
@@ -46232,7 +46232,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -46366,7 +46366,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -46454,7 +46454,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -46555,7 +46555,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 150
 				}
 			},
@@ -46622,7 +46622,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -46720,7 +46720,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -46796,7 +46796,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -46944,7 +46944,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -47021,7 +47021,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 300
 				}
 			},
@@ -47097,7 +47097,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 5
 				}
 			},
@@ -47160,7 +47160,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 120
 				}
 			},
@@ -47315,7 +47315,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -47391,7 +47391,7 @@
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 5
 				}
 			},
@@ -47499,7 +47499,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 20
 				}
 			},
@@ -47572,7 +47572,7 @@
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 5
 				}
 			},
@@ -47678,7 +47678,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -47772,7 +47772,7 @@
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 15
 				}
 			},
@@ -47867,7 +47867,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 60
 				}
 			},
@@ -48036,7 +48036,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -48117,7 +48117,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -48186,7 +48186,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -48256,7 +48256,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -48338,7 +48338,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -48424,7 +48424,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -48503,7 +48503,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -48572,7 +48572,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -48642,7 +48642,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},
@@ -48717,7 +48717,7 @@
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 5
 				}
 			},
@@ -48810,7 +48810,7 @@
 			"range": {
 				"type": "line",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 30
 				}
 			},
@@ -48883,7 +48883,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet2",
+					"type": "фт",
 					"amount": 90
 				}
 			},

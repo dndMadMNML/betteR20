@@ -79,8 +79,8 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
-					"amount": 30
+					"type": "Касание",
+					"amount": 0
 				}
 			},
 			"components": {

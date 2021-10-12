@@ -1,0 +1,91 @@
+﻿{
+	"spell": [
+{
+	"name": "Absorb elem",
+	"source": "ern_world",
+	"page": "Заклинания (оф)",
+	"otherSources": [
+		{
+			"source": "EEPC",
+			"page": 15
+		}
+	],
+	"level": 1,
+	"school": "A",
+	"time": [
+		{
+			"number": 1,
+			"unit": "reaction"
+		}
+	],
+	"range": {
+		"type": "point",
+		"distance": {
+			"type": "self"
+		}
+	},
+	"components": {
+		"s": true
+	},
+	"duration": [
+		{
+			"type": "timed",
+			"duration": {
+				"type": "round",
+				"amount": 1
+			}
+		}
+	],
+	"entries": [
+		"Заклинание поглощает часть энергии, направленной на вас, ослабляя эффект и запасая эту энергию для использования во время следующей рукопашной атаки.",
+		"Вы получаете до начала своего следующего хода сопротивление к тому виду урона, который спровоцировал данное заклинание. Кроме того, когда вы впервые попадаете рукопашной атакой в следующем ходу, цель получает дополнительный урон {@damage 1d6} этого вида, после чего заклинание заканчивается."
+	],
+	"entriesHigherLevel": [
+		{
+			"name": "At Higher Levels",
+			"entries": [
+				"Если вы сотворяете это заклинание, используя ячейку 2 уровня иливыше, то дополнительный урон увеличивается на {@scaledamage 1d6|1-9|1d6} за каждый уровень ячейки выше 1."
+			]
+		}
+	],
+	"damageResist": [
+		"acid",
+		"cold",
+		"fire",
+		"lightning",
+		"thunder"
+	],
+	"classes": {
+		"fromClassList": [
+			{
+				"name": "Druid",
+				"source": "PHB"
+			},
+			{
+				"name": "Ranger",
+				"source": "PHB"
+			},
+			{
+				"name": "Sorcerer",
+				"source": "PHB"
+			},
+			{
+				"name": "Wizard",
+				"source": "PHB"
+			},
+			{
+				"name": "Artificer (Revisited)",
+				"source": "UAArtificerRevisited"
+			},
+			{
+				"name": "Artificer",
+				"source": "TCE"
+			}
+		]
+	},
+	"areaTags": [
+		"ST"
+	]
+}
+	]
+}
